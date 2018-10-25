@@ -363,3 +363,429 @@ Migrating to CreateAssembliesParts (20181025172613)
   ↳ db/seeds.rb:21
   [1m[35m (84.9ms)[0m  [1m[36mcommit transaction[0m
   ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.5ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "9054581145"], ["created_at", "2018-10-25 18:23:43.642347"], ["updated_at", "2018-10-25 18:23:43.642347"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (72.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "8477724821"], ["created_at", "2018-10-25 18:23:43.717317"], ["updated_at", "2018-10-25 18:23:43.717317"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "8381914075"], ["created_at", "2018-10-25 18:23:43.806394"], ["updated_at", "2018-10-25 18:23:43.806394"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "6645954284"], ["created_at", "2018-10-25 18:23:43.895059"], ["updated_at", "2018-10-25 18:23:43.895059"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "3872161095"], ["created_at", "2018-10-25 18:23:43.983678"], ["updated_at", "2018-10-25 18:23:43.983678"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "1102137275"], ["created_at", "2018-10-25 18:23:44.072552"], ["updated_at", "2018-10-25 18:23:44.072552"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "4630232386"], ["created_at", "2018-10-25 18:23:44.161554"], ["updated_at", "2018-10-25 18:23:44.161554"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (85.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "6609854580"], ["created_at", "2018-10-25 18:23:44.250014"], ["updated_at", "2018-10-25 18:23:44.250014"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "3228317887"], ["created_at", "2018-10-25 18:23:44.339217"], ["updated_at", "2018-10-25 18:23:44.339217"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "5005395769"], ["created_at", "2018-10-25 18:23:44.427571"], ["updated_at", "2018-10-25 18:23:44.427571"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Horsea"], ["last_name", "Viva"], ["created_at", "2018-10-25 18:23:44.600644"], ["updated_at", "2018-10-25 18:23:44.600644"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (90.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Pidgeot"], ["last_name", "Adrian"], ["created_at", "2018-10-25 18:23:44.694171"], ["updated_at", "2018-10-25 18:23:44.694171"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (74.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Drowzee"], ["last_name", "Evita"], ["created_at", "2018-10-25 18:23:44.771590"], ["updated_at", "2018-10-25 18:23:44.771590"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (86.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Mewtwo"], ["last_name", "Lean"], ["created_at", "2018-10-25 18:23:44.860327"], ["updated_at", "2018-10-25 18:23:44.860327"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (85.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Scyther"], ["last_name", "Dorinda"], ["created_at", "2018-10-25 18:23:44.949410"], ["updated_at", "2018-10-25 18:23:44.949410"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (85.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Voltorb"], ["last_name", "Nannie"], ["created_at", "2018-10-25 18:23:45.037667"], ["updated_at", "2018-10-25 18:23:45.037667"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (86.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Dodrio"], ["last_name", "Lane"], ["created_at", "2018-10-25 18:23:45.126826"], ["updated_at", "2018-10-25 18:23:45.126826"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (96.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Nidorina"], ["last_name", "Tiffany"], ["created_at", "2018-10-25 18:23:45.226673"], ["updated_at", "2018-10-25 18:23:45.226673"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (85.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Omastar"], ["last_name", "Zane"], ["created_at", "2018-10-25 18:23:45.314898"], ["updated_at", "2018-10-25 18:23:45.314898"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (86.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Mankey"], ["last_name", "Mikki"], ["created_at", "2018-10-25 18:23:45.404143"], ["updated_at", "2018-10-25 18:23:45.404143"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (96.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "4038781208"], ["created_at", "2018-10-25 18:24:18.522325"], ["updated_at", "2018-10-25 18:24:18.522325"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (93.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "9072878027"], ["created_at", "2018-10-25 18:24:18.617752"], ["updated_at", "2018-10-25 18:24:18.617752"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (75.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "8410021010"], ["created_at", "2018-10-25 18:24:18.695357"], ["updated_at", "2018-10-25 18:24:18.695357"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (75.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "9489432549"], ["created_at", "2018-10-25 18:24:18.773864"], ["updated_at", "2018-10-25 18:24:18.773864"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (85.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.9ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "2498725502"], ["created_at", "2018-10-25 18:24:18.862001"], ["updated_at", "2018-10-25 18:24:18.862001"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (96.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "5969913090"], ["created_at", "2018-10-25 18:24:18.962050"], ["updated_at", "2018-10-25 18:24:18.962050"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (97.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "9712113925"], ["created_at", "2018-10-25 18:24:19.061898"], ["updated_at", "2018-10-25 18:24:19.061898"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (77.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.5ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "6853719542"], ["created_at", "2018-10-25 18:24:19.153397"], ["updated_at", "2018-10-25 18:24:19.153397"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (82.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "9357387607"], ["created_at", "2018-10-25 18:24:19.240038"], ["updated_at", "2018-10-25 18:24:19.240038"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "4597125729"], ["created_at", "2018-10-25 18:24:19.331534"], ["updated_at", "2018-10-25 18:24:19.331534"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (83.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Sandshrew"], ["last_name", "Arlene"], ["created_at", "2018-10-25 18:24:19.500528"], ["updated_at", "2018-10-25 18:24:19.500528"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (69.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Hitmonchan"], ["last_name", "Arnold"], ["created_at", "2018-10-25 18:24:19.573779"], ["updated_at", "2018-10-25 18:24:19.573779"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (94.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Lickitung"], ["last_name", "Alida"], ["created_at", "2018-10-25 18:24:19.674621"], ["updated_at", "2018-10-25 18:24:19.674621"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (82.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.5ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Onix"], ["last_name", "Irina"], ["created_at", "2018-10-25 18:24:19.762435"], ["updated_at", "2018-10-25 18:24:19.762435"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (94.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.6ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Omanyte"], ["last_name", "Sherise"], ["created_at", "2018-10-25 18:24:19.862377"], ["updated_at", "2018-10-25 18:24:19.862377"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (95.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Tentacool"], ["last_name", "Elza"], ["created_at", "2018-10-25 18:24:19.962290"], ["updated_at", "2018-10-25 18:24:19.962290"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (94.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Hypno"], ["last_name", "Moshe"], ["created_at", "2018-10-25 18:24:20.061387"], ["updated_at", "2018-10-25 18:24:20.061387"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (95.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Venonat"], ["last_name", "Jude"], ["created_at", "2018-10-25 18:24:20.163192"], ["updated_at", "2018-10-25 18:24:20.163192"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (82.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.5ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Venonat"], ["last_name", "Gail"], ["created_at", "2018-10-25 18:24:20.250341"], ["updated_at", "2018-10-25 18:24:20.250341"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (97.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.6ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Kingler"], ["last_name", "Magdalen"], ["created_at", "2018-10-25 18:24:20.350862"], ["updated_at", "2018-10-25 18:24:20.350862"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (94.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:9
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "4308672799"], ["created_at", "2018-10-25 18:24:47.894796"], ["updated_at", "2018-10-25 18:24:47.894796"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (74.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "3237425943"], ["created_at", "2018-10-25 18:24:47.971037"], ["updated_at", "2018-10-25 18:24:47.971037"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "7141329155"], ["created_at", "2018-10-25 18:24:48.060226"], ["updated_at", "2018-10-25 18:24:48.060226"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "2168243292"], ["created_at", "2018-10-25 18:24:48.148911"], ["updated_at", "2018-10-25 18:24:48.148911"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (76.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "2742710025"], ["created_at", "2018-10-25 18:24:48.228237"], ["updated_at", "2018-10-25 18:24:48.228237"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (84.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "6126526594"], ["created_at", "2018-10-25 18:24:48.315738"], ["updated_at", "2018-10-25 18:24:48.315738"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (97.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "4392390733"], ["created_at", "2018-10-25 18:24:48.415040"], ["updated_at", "2018-10-25 18:24:48.415040"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (97.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "6473431460"], ["created_at", "2018-10-25 18:24:48.515021"], ["updated_at", "2018-10-25 18:24:48.515021"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (110.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.4ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "6582992711"], ["created_at", "2018-10-25 18:24:48.627659"], ["updated_at", "2018-10-25 18:24:48.627659"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (95.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[36mPart Create (0.3ms)[0m  [1m[32mINSERT INTO "parts" ("part_number", "created_at", "updated_at") VALUES (?, ?, ?)[0m  [["part_number", "9298503702"], ["created_at", "2018-10-25 18:24:48.725822"], ["updated_at", "2018-10-25 18:24:48.725822"]]
+  ↳ db/seeds.rb:15
+  [1m[35m (86.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:15
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Golbat"], ["last_name", "Serina"], ["created_at", "2018-10-25 18:24:48.892019"], ["updated_at", "2018-10-25 18:24:48.892019"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (64.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Seadra"], ["last_name", "Sherron"], ["created_at", "2018-10-25 18:24:48.958936"], ["updated_at", "2018-10-25 18:24:48.958936"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (85.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Paras"], ["last_name", "Karol"], ["created_at", "2018-10-25 18:24:49.047688"], ["updated_at", "2018-10-25 18:24:49.047688"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (87.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.6ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Charmeleon"], ["last_name", "Golden"], ["created_at", "2018-10-25 18:24:49.143574"], ["updated_at", "2018-10-25 18:24:49.143574"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (62.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Nidorina"], ["last_name", "Teressa"], ["created_at", "2018-10-25 18:24:49.215349"], ["updated_at", "2018-10-25 18:24:49.215349"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (95.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.5ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Mewtwo"], ["last_name", "Eliz"], ["created_at", "2018-10-25 18:24:49.318327"], ["updated_at", "2018-10-25 18:24:49.318327"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (80.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.7ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Flareon"], ["last_name", "Fleta"], ["created_at", "2018-10-25 18:24:49.405412"], ["updated_at", "2018-10-25 18:24:49.405412"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (82.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Jigglypuff"], ["last_name", "Darrel"], ["created_at", "2018-10-25 18:24:49.493394"], ["updated_at", "2018-10-25 18:24:49.493394"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (108.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.3ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Nidorina"], ["last_name", "Bart"], ["created_at", "2018-10-25 18:24:49.604069"], ["updated_at", "2018-10-25 18:24:49.604069"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (83.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[36mAssembly Create (0.6ms)[0m  [1m[32mINSERT INTO "assemblies" ("name", "last_name", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["name", "Magmar"], ["last_name", "Dwayne"], ["created_at", "2018-10-25 18:24:49.692863"], ["updated_at", "2018-10-25 18:24:49.692863"]]
+  ↳ db/seeds.rb:21
+  [1m[35m (93.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:21
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 7881506769], ["part_id", 8310333061]]
+  ↳ db/seeds.rb:26
+  [1m[35m (96.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 1059014247], ["part_id", 8593990863]]
+  ↳ db/seeds.rb:26
+  [1m[35m (106.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 3279457834], ["part_id", 7906400284]]
+  ↳ db/seeds.rb:26
+  [1m[35m (94.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 8505005913], ["part_id", 7843664043]]
+  ↳ db/seeds.rb:26
+  [1m[35m (83.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.7ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 8291401148], ["part_id", 7687978716]]
+  ↳ db/seeds.rb:26
+  [1m[35m (93.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 8742555210], ["part_id", 5127439972]]
+  ↳ db/seeds.rb:26
+  [1m[35m (84.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.6ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 3788330111], ["part_id", 4802643466]]
+  ↳ db/seeds.rb:26
+  [1m[35m (94.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.4ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 4313132234], ["part_id", 6758149953]]
+  ↳ db/seeds.rb:26
+  [1m[35m (95.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (0.7ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 1035933336], ["part_id", 5579599354]]
+  ↳ db/seeds.rb:26
+  [1m[35m (93.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ db/seeds.rb:26
+  [1m[36mAssembliesPart Create (1.0ms)[0m  [1m[32mINSERT INTO "assemblies_parts" ("assembly_id", "part_id") VALUES (?, ?)[0m  [["assembly_id", 4745772732], ["part_id", 1304964640]]
+  ↳ db/seeds.rb:26
+  [1m[35m (83.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ db/seeds.rb:26

@@ -21,3 +21,8 @@ puts "seeds Part ok"
   assembly = Assembly.create!(name: "#{Faker::Pokemon.name}", last_name: "#{Faker::Name.middle_name}")
 end
 puts "seed assemblies ok"
+
+10.times do
+  assemblypart = AssembliesPart.create!(assembly_id: "#{Faker::Number.number(10)}", part_id: "#{Faker::Number.number(10)}")
+end
+puts "assembliespart ok"
